@@ -1,5 +1,5 @@
 # dsr-scriptrestarter
-- Simple script restarter.
+- Simple script restarter for FiveM.
 
 # Preview:
 - [N/A]()
