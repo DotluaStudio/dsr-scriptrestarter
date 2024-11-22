@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Dotlua Studio'
-description 'Script restarter'
+description 'Simple script restarter'
 version '1.0.0'
 
 shared_script 'config.lua'
