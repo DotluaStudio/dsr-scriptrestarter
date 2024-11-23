@@ -11,7 +11,7 @@
 # Features
 - Restart scripts one minute after server re-/start.
 
-# Configurable Elements in CONFIG.LUA
+# Configurable Elements in `CONFIG.LUA`
 - Add, or remove scripts to restart.
 - Define the time to wait before restarting the scripts.
 
