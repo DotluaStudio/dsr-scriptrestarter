@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/d0884e5e-25c8-4ee3-b865-ae88983cc96a)
 
+
+![image](https://github.com/user-attachments/assets/34725c53-d059-4318-b952-f28811b96286)
 
 # dsr-scriptrestarter
 - Simple script restarter for FiveM.
